@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+trusted_data/
+download_data/
+*.parquet
+ifood_abtest_explorando.ipynb
