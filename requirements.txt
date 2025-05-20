@@ -1,0 +1,5 @@
+pyspark
+requests
+tqdm
+pandas
+matplotlib
